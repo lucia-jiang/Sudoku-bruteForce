@@ -1,4 +1,4 @@
-# Sudoku-bruteForce
+# basicSudoku
 
 This mini-project was developed during the first year of university (2019-2020 course) while learning the fundamentals of programming in Java.
 
